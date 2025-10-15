@@ -7,7 +7,7 @@ Datasets available at "https://www.kaggle.com/datasets/riccardoriccio/real-time-
 This project is based on the paper: "Real-Time Fitness Exercise Classification and Counting from Video Frames"
 
 Link to the paper: "https://arxiv.org/abs/2411.11548"
-
+<!--
 Feel free to Contact me at: riccardopersonalmail@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/riccardo-riccio-bb7163296/
@@ -18,7 +18,7 @@ LinkedIn: https://www.linkedin.com/in/riccardo-riccio-bb7163296/
 
 Watch the Fitness AI Coach in action:
 [![Watch the video](https://img.youtube.com/vi/GPmDPB1bSmc/hqdefault.jpg)](https://www.youtube.com/watch?v=GPmDPB1bSmc)
-
+-->
 ---
 
 ## Table of Contents
@@ -132,3 +132,4 @@ The chatbot feature utilizes OpenAI's GPT-3.5-turbo model to answer fitness-rela
 - **Machine Learning**: LSTM and BiLSTM models for real-time exercise classification.
 - **Streamlit**: Provides the web interface for user interaction.
 - **Python Libraries**: Includes OpenCV, MediaPipe, Streamlit, and others for backend processing.
+
